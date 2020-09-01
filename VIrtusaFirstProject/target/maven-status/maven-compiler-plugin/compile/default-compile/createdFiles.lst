@@ -1,0 +1,7 @@
+com\biraj\springboot\crud\configuration\MyConfiguration$1.class
+com\biraj\springboot\crud\service\UserService.class
+com\biraj\springboot\crud\VIrtusaFirstProjectApplication.class
+com\biraj\springboot\crud\configuration\MyConfiguration.class
+com\biraj\springboot\crud\controller\UserController.class
+com\biraj\springboot\crud\entity\User.class
+com\biraj\springboot\crud\repository\UserRepository.class
